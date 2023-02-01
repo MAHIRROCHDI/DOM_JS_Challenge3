@@ -14,9 +14,9 @@ Creating an HTML page with elements and styling solely using JavaScript is a goo
 
 ### Screenshots
 
-![](images/1.png)
-![](images/2.png)
-
+![](screenshots/DOM _ challenge 3.png)
+![](screenshots/code.png)
+![](screenshots/codeJs.png)
 
 ### Links
 
