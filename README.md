@@ -20,7 +20,7 @@ Creating an HTML page with elements and styling solely using JavaScript is a goo
 
 ### Links
 
-- Live Site URL: [Mahir-DOM-Challenge](https://mahirrochdi.github.io/ElzeroDashboard/)
+- Live Site URL: [Mahir-DOM-Challenge](https://mahirrochdi.github.io/DOM_JS_Challenge3/)
 - Challenge Source : [DOM Challenge](https://www.youtube.com/watch?v=mGhGjzIKEqk&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&index=102)
 ## My process
 
